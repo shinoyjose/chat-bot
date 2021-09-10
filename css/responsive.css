@@ -1,0 +1,18 @@
+@media only screen and (max-width: 500px) {
+    .chat-container {
+        width: calc(100% - 40px);
+        /* height: 500px; */
+    }
+}
+
+
+@media only screen and (max-width: 300px) {
+
+    .carousal-header ol.carousel-indicators {
+        right: 28px;
+    }
+
+    .carousal-header a.carousel-control-next {
+        right: 0;
+    }
+}
