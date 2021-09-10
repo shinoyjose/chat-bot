@@ -5,7 +5,7 @@ body {
 }
 
 .sprite-image {
-    background: url('./images/sprite.png') no-repeat;
+    background: url('../images/sprite.png') no-repeat;
 }
 
 .chat-button {
